@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Misty-Jecks
+- 👋 Hi, I’m @Digicalgirl
 - 👀 I’m interested in ... Software development 
 - 🌱 I’m currently learning ... Software Engineering 
 - 💞️ I’m looking to collaborate on ... Software producing projects 
