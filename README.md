@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Digicalgirl
+- 👋 Hi, I’m Digical girl
 - 👀 I’m interested in ... Software development 
 - 🌱 I’m currently learning ... Software Engineering 
 - 💞️ I’m looking to collaborate on ... Software producing projects 
